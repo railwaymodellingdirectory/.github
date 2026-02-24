@@ -5,3 +5,4 @@ The home of railmodellingdirectory.com
 Repos:
 * https://github.com/railwaymodellingdirectory/railwaymodellingdirectorycom - source code for the website
 * https://github.com/railwaymodellingdirectory/data - the source data powering the website
+* https://github.com/railwaymodellingdirectory/cloudflare-worker - code for the Cloudflare Email -> Webhook worker
